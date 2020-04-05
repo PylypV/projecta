@@ -1,14 +1,1 @@
 The file A
-A new change in local
-In local modification 
-remote commit
-HEAD
-Local
- local commit
-  earlier Remote
-               remote comit 2
-
- one more local commit
-New remote
- remote comit 2
- one more remote commit
