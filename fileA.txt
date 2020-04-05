@@ -2,9 +2,13 @@ The file A
 A new change in local
 In local modification 
 remote commit
+HEAD
 Local
  local commit
-Remote
- remote comit 2
+  earlier Remote
+               remote comit 2
 
-one more local commit
+ one more local commit
+New remote
+ remote comit 2
+ one more remote commit
