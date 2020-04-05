@@ -1,3 +1,4 @@
 The file A
 A new change in local
 In local modification 
+remote commit
