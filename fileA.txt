@@ -2,4 +2,7 @@ The file A
 A new change in local
 In local modification 
 remote commit
-local commit
+Local
+ local commit
+Remote
+ remote comit 2
