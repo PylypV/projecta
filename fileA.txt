@@ -1,2 +1,3 @@
 The file A
-new Branch comit 1
+new Branch commit 1
+new Branch commit 2
